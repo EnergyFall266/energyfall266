@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Leonardo Vanzin</h1>
-<h3 align="center">I have degree in Computer Science, with a strong passion for front-end development, and I aspire to become a full-stack developer.</h3>
+<h3 align="center">I have degree in Computer Science, with a strong passion for front-end development and problem resolution.</h3>
 
 - 📫 How to reach me **leonardo.vanzin@hotmail.com**
 
